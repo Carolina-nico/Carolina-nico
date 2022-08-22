@@ -39,6 +39,6 @@
 [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/csantossilva/)
 [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/>](https://www.instagram.com/carools.cs/)
 
-<img href="https://raw.githubusercontent.com/Carolina/Carolina/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/Carolina-nico/Carolina-nico/blob/output/snake.svg" alt="Snake animation" />
 
 <h2 align="center"> < / > </h2>
